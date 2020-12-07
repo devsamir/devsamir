@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working at RS Siti Khodijah Pekalongan
 - 🌱 I’m currently learning Typescript,Graphql,React Native and ReactJs
-- 😄 I'm natively speak Indonesian and fluently speak english
+- 😄 I'm natively speak Indonesian
 - 💕 I'm currently fall in love with Graphql and React
 - 📫 You can reach me at samir.batog@gmail.com
