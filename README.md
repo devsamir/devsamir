@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![devsamir github stats](https://github-readme-stats.vercel.app/api?username=devsamir&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsamir)](https://github.com/devsamir/github-readme-stats)
+[![devsamir wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devsamir)](https://github.com/devsami/github-readme-stats)
