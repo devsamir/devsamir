@@ -1,4 +1,4 @@
-### Hello Gorgeous Friend On The Internet 👋
+### Hi Bro 👋
 
 <!--
 **devsamir/devsamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
