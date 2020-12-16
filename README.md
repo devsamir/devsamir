@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working at RS Siti Khodijah Pekalongan
-- 🌱 I’m currently learning Typescript,Graphql,Next.js and ReactJs
+- 🌱 I’m currently learning Typescript,Graphql,Next.js and Redux
 - 😄 I'm natively speak Indonesian
 - 💕 I'm currently fall in love with Typescript and React
 - 📫 You can reach me at samir.batog@gmail.com
