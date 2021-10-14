@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 I'm natively speak Indonesian
 - 💕 I'm currently fall in love with Typescript and Next.js
 - 📫 You can reach me at samir.batog@gmail.com
+- 
