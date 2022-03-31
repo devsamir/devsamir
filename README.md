@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsamir)
 
-
-- 🔭 I’m currently working at RS Siti Khodijah Pekalongan
 - 🌱 I’m currently learning Typescript,Graphql,Next.js and Redux
 - 😄 I'm natively speak Indonesian
 - 💕 I'm currently fall in love with Typescript and Next.js
