@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsamir)
 
-- 🌱 I’m currently learning Typescript,Graphql,Next.js and Redux
+- 🌱 I’m currently learning Next.js and NestJS
 - 😄 I'm natively speak Indonesian
 - 💕 I'm currently fall in love with Typescript and Next.js
 - 📫 You can reach me at samir.batog@gmail.com
