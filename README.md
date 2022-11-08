@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Next.js and NestJS
 - 😄 I'm natively speak Indonesian
 - 💕 I'm currently fall in love with Typescript, NestJS and Next.js
-- 📫 You can reach me at samir.batog@gmail.com or from my <a href="https://www.linkedin.com/in/samir-batoq-3266a1a4/">LinkedIn</a>
+- 📫 You can reach me at samir.batog@gmail.com or from my <a href="https://www.linkedin.com/in/samir-batoq-3266a1a4/" target="_blank">LinkedIn</a>
