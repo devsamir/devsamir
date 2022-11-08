@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Next.js and NestJS
 - 😄 I'm natively speak Indonesian
-- 💕 I'm currently fall in love with Typescript and Next.js
+- 💕 I'm currently fall in love with Typescript, NestJS and Next.js
 - 📫 You can reach me at samir.batog@gmail.com
 - 
