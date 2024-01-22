@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsamir)
 
-- 🌱 I’m currently learning Next.js and NestJS
+- 🌱 I’m currently python and odoo
 - 😄 I'm natively speak Indonesian
 - 💕 I'm currently fall in love with Typescript, NestJS and Next.js
 - 📫 You can reach me at samir.batog@gmail.com or from my <a href="https://www.linkedin.com/in/samir-batoq-3266a1a4/" target="_blank">LinkedIn</a>
